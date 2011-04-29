@@ -1,4 +1,4 @@
-Solarized Colorscheme for IntelliJ IDEA
+Solarized Colorscheme for Rubymine
 =======================================
 
 Original Solarized color scheme developed by Ethan Schoonover <es@ethanschoonover.com>  
@@ -6,6 +6,9 @@ Original Solarized color scheme developed by Ethan Schoonover <es@ethanschoonove
 Adapted for IntelliJ IDEA by:  
 Adam Vandenberg <flangy@gmail.com>  
 Johan Kaving <johan@kaving.se>
+
+Extended for Rubymine by:
+Dan Talpau <dan.talpau@gmail.com>
 
 Visit the [Solarized homepage]
 ------------------------------
