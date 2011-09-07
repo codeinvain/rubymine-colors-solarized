@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scheme name="Solarized Light" version="1" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="586e75" />
     <option name="CARET_COLOR" value="dc322f" />
-    <option name="CARET_ROW_COLOR" value="eee8d5" />
+    <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
     <option name="GUTTER_BACKGROUND" value="eee8d5" />
-    <option name="INDENT_GUIDE" value="" />
-    <option name="LINE_NUMBERS_COLOR" value="657b83" />
+    <option name="INDENT_GUIDE" value="fffbdb" />
+    <option name="LINE_NUMBERS_COLOR" value="cccccc" />
     <option name="METHOD_SEPARATORS_COLOR" value="93a1a1" />
     <option name="MODIFIED_LINES_COLOR" value="" />
     <option name="NOTIFICATION_BACKGROUND" value="fdf6e3" />
@@ -254,6 +254,16 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="DEPRECATED_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" value="c0c0c0" />
+        <option name="EFFECT_TYPE" value="3" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
         <option name="FOREGROUND" />
@@ -279,7 +289,7 @@
         <option name="FOREGROUND" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" value="dc322f" />
+        <option name="EFFECT_COLOR" value="808000" />
         <option name="EFFECT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
@@ -317,7 +327,7 @@
     <option name="HAML_FILTER_CONTENT">
       <value>
         <option name="FOREGROUND" value="93a1a1" />
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -479,8 +489,8 @@
         <option name="FOREGROUND" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" value="b58900" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="EFFECT_COLOR" value="c0c0c0" />
+        <option name="EFFECT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="b58900" />
       </value>
     </option>
@@ -1217,7 +1227,7 @@
     <option name="RUBY_EXPR_IN_STRING">
       <value>
         <option name="FOREGROUND" value="73642" />
-        <option name="BACKGROUND" value="93a1a1" />
+        <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -1647,11 +1657,11 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="73642" />
-        <option name="BACKGROUND" value="ffdf80" />
+        <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="ffff00" />
+        <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
